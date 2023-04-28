@@ -1,7 +1,7 @@
 // Your Client ID can be retrieved from your project in the Google
 // Developer Console, https://console.developers.google.com
 //GAAW Migration Tool
-var CLIENT_ID = "380797516150-i9sh9s3mgrk5pqjd2ugp54d0k90pth6c.apps.googleusercontent.com";
+var CLIENT_ID = "gtm-whqlmbg-mzuxn@appspot.gserviceaccount.com";
 
 var GoogleAuth; // Google Auth object.
 var isAuthorized;
